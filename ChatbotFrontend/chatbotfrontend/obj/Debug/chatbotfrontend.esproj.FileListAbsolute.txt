@@ -1,0 +1,2 @@
+C:\Users\Evalynn Kootstra\Documents\GitHub\ChatbotFrontend\ChatbotFrontend\ChatbotFrontend\obj\Debug\chatbotfrontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\Evalynn Kootstra\Documents\GitHub\ChatbotFrontend\ChatbotFrontend\ChatbotFrontend\obj\Debug\chatbotfrontend.esproj.CoreCompileInputs.cache
